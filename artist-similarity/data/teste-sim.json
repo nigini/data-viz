@@ -1,0 +1,23 @@
+[
+{"id":0, "nome":"Roberto Carlos", "similaridade":[{"id":1, "nome":"Erasmo Carlos"}, {"id":10, "nome":"Milton Nascimento"}]},
+
+{"id":1, "nome":"Erasmo Carlos", "similaridade":[{"id":0, "nome":"Roberto Carlos"}]},
+
+{"id":2, "nome":"Tom Jobim", "similaridade":[{"id":3, "nome":"Chico Buarque"}, {"id":4, "nome":"Caetano Veloso"}, {"id":5, "nome":"Jorge Ben Jor"}, {"id":6, "nome":"Noel Rosa"}, {"id":9, "nome":"Raul Seixas"}]},
+
+{"id":3, "nome":"Chico Buarque", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":4, "nome":"Caetano Veloso"}, {"id":7, "nome":"Tim Maia"}, {"id":5, "nome":"Jorge Ben Jor"}, {"id":6, "nome":"Noel Rosa"}, {"id":8, "nome":"Elis Regina"}]},
+
+{"id":4, "nome":"Caetano Veloso", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":3, "nome":"Chico Buarque"}, {"id":2, "nome":"Tom Jobim"}]},
+
+{"id":5, "nome":"Jorge Ben Jor", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":3, "nome":"Chico Buarque"}, {"id":10, "nome":"Milton Nascimento"}]},
+
+{"id":6, "nome":"Noel Rosa", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":3, "nome":"Chico Buarque"}, {"id":8, "nome":"Elis Regina"}, {"id":9, "nome":"Raul Seixas"}]},
+
+{"id":7, "nome":"Tim Maia", "similaridade":[{"id":3, "nome":"Chico Buarque"}, {"id":9, "nome":"Raul Seixas"}]},
+
+{"id":8, "nome":"Elis Regina", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":3, "nome":"Chico Buarque"}, {"id":10, "nome":"Milton Nascimento"}]},
+
+{"id":9, "nome":"Raul Seixas", "similaridade":[{"id":2, "nome":"Tom Jobim"}, {"id":6, "nome":"Noel Rosa"}, {"id":7, "nome":"Tim Maia"}]},
+
+{"id":10, "nome":"Milton Nascimento", "similaridade":[{"id":0, "nome":"Roberto Carlos"}, {"id":5, "nome":"Jorge Ben Jor"}, {"id":8, "nome":"Elis Regina"	}]}
+]
